@@ -1,8 +1,6 @@
 package com.naveed.spring.camel.demo;
 
 import com.naveed.spring.camel.demo.config.AppConfig;
-import java.util.HashMap;
-import java.util.Map;
 import org.apache.camel.CamelContext;
 import org.apache.camel.ConsumerTemplate;
 import org.apache.camel.ProducerTemplate;
